@@ -13,7 +13,7 @@ const WeddingAlbum = () => {
     <div className="album-container">
       <h1 className="title">Mohit & Sheetal Wedding Album</h1>
 
-      <HTMLFlipBook width={500} height={700} className="flip-book">
+	  <HTMLFlipBook width={window.innerWidth < 768 ? 300 : 500} height={window.innerWidth < 768 ? 400 : 700} className="flip-book">
         {imageUrls.map((url, index) => (
           <div className="page" key={index}>
             <img src={url} alt={`img${index}`} />

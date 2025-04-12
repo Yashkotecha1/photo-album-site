@@ -5,14 +5,13 @@ import './WeddingAlbum.css';
 const WeddingAlbum = () => {
   const imageUrls = [];
 
-  for (let i = 1; i <= 400; i++) {
+  for (let i = 2; i <= 138; i++) {
     imageUrls.push(`https://raw.githubusercontent.com/Yashkotecha1/photo-album-images/main/image/${i}.JPG`);
   }
 
   return (
 	
     <div className="album-container">
-      
 
 	  <HTMLFlipBook width={window.innerWidth < 768 ? 300 : 500} height={window.innerWidth < 768 ? 400 : 700} className="flip-book">
         {imageUrls.map((url, index) => (

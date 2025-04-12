@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/photo-album/static/css/main.81cdf814.css",
+    "main.js": "/photo-album/static/js/main.9585b74a.js",
+    "static/js/453.522e6d2c.chunk.js": "/photo-album/static/js/453.522e6d2c.chunk.js",
+    "static/media/logo.svg": "/photo-album/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/photo-album/index.html",
+    "main.81cdf814.css.map": "/photo-album/static/css/main.81cdf814.css.map",
+    "main.9585b74a.js.map": "/photo-album/static/js/main.9585b74a.js.map",
+    "453.522e6d2c.chunk.js.map": "/photo-album/static/js/453.522e6d2c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81cdf814.css",
+    "static/js/main.9585b74a.js"
+  ]
+}

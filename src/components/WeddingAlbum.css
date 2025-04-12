@@ -4,13 +4,7 @@
 	min-height: 150vh;
 	padding: 30px;
   }
-  
-  .title {
-	font-family: 'Great Vibes', cursive;
-	font-size: 50px;
-	color: #fff;
-	margin-bottom: 30px;
-  }
+
   
   .flip-book {
 	margin: auto;
@@ -46,12 +40,7 @@
 	padding: 30px;
   }
   
-  .title {
-	font-family: 'Great Vibes', cursive;
-	font-size: 50px;
-	color: #fff;
-	margin-bottom: 30px;
-  }
+
   
   .flip-book {
 	margin: auto;
